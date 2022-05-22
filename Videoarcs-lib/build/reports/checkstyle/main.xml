@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\Videoarcs\Library.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\Anwendung.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\person\Person.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\person\PersonController.java">
+<error line="34" column="31" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="34" column="31" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="34" column="57" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="34" column="57" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" column="31" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" column="31" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" column="56" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="39" column="56" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="44" column="31" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="44" column="31" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="44" column="59" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="44" column="59" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\person\PersonRepository.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\person\PersonService.java">
+<error line="20" column="41" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\video\GenresOnly.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\video\Video.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\video\VideoController.java">
+<error line="30" column="31" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="30" column="31" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" column="31" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" column="31" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" column="59" severity="warning" message="Nach &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="40" column="59" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\video\VideoRepository.java">
+</file>
+<file name="C:\Users\User\VideoArchive\Videoarcs-lib\src\main\java\fh\aalen\video\VideoService.java">
+<error line="18" column="40" severity="warning" message="Vor &apos;=&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+</checkstyle>
